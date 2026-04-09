@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently a student in UCD studing my Masters in Project Management
+- 🔭 I’m currently a student in UCD studying my Masters in Project Management
 - 🌱 I’m currently learning Project Management
 - 👯 I’m looking to collaborate on Project Management
 
@@ -7,9 +7,9 @@
 
 A simple static website is included in this repository:
 
-- `/home/runner/work/deeksha1996rlp/deeksha1996rlp/index.html`
-- `/home/runner/work/deeksha1996rlp/deeksha1996rlp/styles.css`
-- `/home/runner/work/deeksha1996rlp/deeksha1996rlp/script.js`
+- `index.html`
+- `styles.css`
+- `script.js`
 
 Open `index.html` in a browser to view it.
 <!--
